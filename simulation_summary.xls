@@ -1,0 +1,16 @@
+rounds,500
+
+Results,Count
+draw,176
+player,169
+computer,155
+
+Player move,Count
+paper,166
+rock,172
+scissors,162
+
+Computer move,Count
+paper,164
+rock,177
+scissors,159
