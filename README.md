@@ -66,24 +66,6 @@ The project includes:
 
 ---
 
-## 🛠 Installation
-
-Install optional plotting libraries:
-
-```bash
-pip install matplotlib seaborn
-
-▶️ How to Run
-
-### Run simulation
-python simulate.py
-
-### Run GUI
-python rps_gui.py
-
-### Run test file
-python test.py
-
 📊 Example Outputs
 Simulation summary (500 rounds)
 
@@ -113,4 +95,23 @@ Python uses the Mersenne Twister PRNG
 Better strategies can predict opponent moves (frequency, Markov chains…)
 
 Game logic is cleanly separated from the Tkinter interface
+
+## 🛠 Installation
+
+Install optional plotting libraries:
+
+```bash
+pip install matplotlib seaborn
+
+▶️ How to Run
+
+### Run simulation
+python simulate.py
+
+### Run GUI
+python rps_gui.py
+
+### Run test file
+python test.py
+
 
